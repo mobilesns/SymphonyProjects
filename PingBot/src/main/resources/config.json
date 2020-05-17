@@ -1,0 +1,30 @@
+{
+    "sessionAuthHost": "develop2.symphony.com",
+    "sessionAuthPort": 443,
+    "keyAuthHost": "develop2.symphony.com",
+    "keyAuthPort": 443,
+    "podHost": "develop2.symphony.com",
+    "podPort": 443,
+    "agentHost": "develop2.symphony.com",
+    "agentPort": 443,
+
+    "truststorePath": "certificates/all_symphony_certs_truststore",
+    "truststorePassword": "changeit",
+
+    "botUsername": "luoapidevelop2",
+    "botEmailAddress": "luohualiang@gmail.com",
+
+    "botPrivateKeyPath": "rsa/",
+    "botPrivateKeyName": "hualiang_api_privatekey.pem",
+
+    "botCertPath": "",
+    "botCertName": "",
+    "botCertPassword": "",
+
+    "proxyURL": "",
+    "proxyUsername": "",
+    "proxyPassword": "",
+    "keyManagerProxyURL": "",
+    "keyManagerProxyUsername": "",
+    "keyManagerProxyPassword": ""
+}
